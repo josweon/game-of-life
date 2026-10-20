@@ -1,0 +1,3 @@
+- [ ] Create a remote repo for code and set it up locally 
+- [ ] Setup codespaces for development
+- [ ] Test that things are able to run locally
