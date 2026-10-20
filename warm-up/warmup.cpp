@@ -24,6 +24,14 @@ int main(int argc, char *argv[])
 	 * of ../res/tests/0.  TODO: apply the rules to the vector,
 	 * write the result to standard output, and compare with the
 	 * contents of ../tests/1. */
+
+	 // TODO: 1) Read an integer (let’s call it n) from the command line
+	//  int n;
+	//  std::cin >> n;
+	//  cout << n;
+	 // Apply the Game of Life rules n times to the hard-coded grid, and
+	 // print the result (as . and O characters) to stdout (e.g. using cout).
 	world = future;
+	cout << world;
 	return 0;
 }
